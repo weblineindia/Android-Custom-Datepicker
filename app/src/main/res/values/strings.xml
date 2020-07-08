@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-Custom-Datepicker</string>
+    <string name="lbl_select_date">Select Date</string>
+    <string name="tv_invalidDateMessage">Invalid Date</string>
+</resources>
