@@ -43,7 +43,7 @@ Whereas Follow [this link](https://www.technetexperts.com/mobile/how-to-implemen
 We also provide a free, basic support for all users who want to use this Custom Datepicker in your Android project. In case you want to customize this Datepicker to suit your development needs, then feel free to contact our [Android developers](https://www.weblineindia.com/hire-android-app-developers.html).
 
 ## Collection of Components
-We have built many other components and free resources for software development in various programming languages. Kindly click here to view our [Free Resources for Software Development](https://www.weblineindia.com/software-development-resources.html).
+We have built many other components and free resources for software development in various programming languages. Kindly click here to view our [Free Resources for Software Development](https://www.weblineindia.com/communities.html).
 
 ## Changelog
 Detailed changes for each release are documented in CHANGELOG.md.
